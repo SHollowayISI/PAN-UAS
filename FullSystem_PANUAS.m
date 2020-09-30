@@ -16,7 +16,7 @@
 %}
 
 %% Housekeeping
-% clear variables
+clear variables
 close all
 addpath(genpath(pwd));
 tic
