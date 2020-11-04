@@ -19,7 +19,7 @@ for n = 1:length(vel_list)
     r_in = 500;
     el_in = 0;
     az_in = 0;
-    rcs_in = 0;
+    rcs_in = -20;
     
     for m = 1:iterations
         
